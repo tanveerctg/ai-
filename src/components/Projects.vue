@@ -59,7 +59,7 @@ export default {
     align-items:center;
     width:100%;
     color:white;
-      padding-left:3rem;
+    padding-left:2rem;
   }
   .headlineText{
     font-size:2.8rem;
